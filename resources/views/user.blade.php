@@ -59,7 +59,7 @@
                             <div class="card">
                                 <div class="card-header bg-info p-4 text-white"></div>
                                 <div class="card-body">
-                                    <form action="{{ route('') }}" method="post">
+                                    <form action="" method="post">
                                         <div class="mb-3">
                                             <label for="" class="form-label">Montant Caution</label>
                                             <input type="number" class="form-control" name="MontantCaution">
